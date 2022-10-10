@@ -1,5 +1,14 @@
 {
-  "remote": "app2",
-  "url": "http://localhost:3002/remoteEntry.js",
-  "module": "./Widget"
+  [  
+    {
+      "remote": "app2",
+      "url": "http://localhost:3002/remoteEntry.js",
+      "module": "./Widget"
+    },
+    {
+      "remote": "app3",
+      "url": "http://localhost:3002/remoteEntry.js",
+      "module": "./Widget"
+    }  
+  ]
 }
