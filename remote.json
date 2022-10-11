@@ -2,9 +2,9 @@
  "remotes":
   [  
     {
-      "remote": "app2",
-      "url": "http://localhost:3002/remoteEntry.js",
-      "module": "./Widget"
+      "remote": "starting",
+      "url": "seo@https://dev-common.urgent.ly/seo/seoRemoteEntry.js",
+      "module": "./StartingPage"
     },
     {
       "remote": "app3",
