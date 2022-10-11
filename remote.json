@@ -8,10 +8,28 @@
       "module": "./StartingPage"
     },
     {
-      "remote": "app3",
-      "route": "test",
+      "remote": "service-picker",
+      "route": "seo",
       "url": "http://localhost:3002/remoteEntry.js",
       "module": "./Widget"
-    }  
+    },
+   {
+      "remote": "vehicle-info",
+      "route": "seo",
+      "url": "http://localhost:3002/remoteEntry.js",
+      "module": "./Widget"
+    },
+   {
+      "remote": "location",
+      "route": "seo",
+      "url": "http://localhost:3002/remoteEntry.js",
+      "module": "./Widget"
+    },
+    {
+      "remote": "summary",
+      "route": "seo",
+      "url": "http://localhost:3002/remoteEntry.js",
+      "module": "./Widget"
+    }
   ]
 }
