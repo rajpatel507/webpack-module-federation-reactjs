@@ -2,7 +2,8 @@
  "remotes":
   [  
     {
-      "remote": "starting",
+      "route": "starting",
+      "remote":'seo',
       "url": "http://localhost:3001/seoRemoteEntry.js",
       "module": "./StartingPage"
     },
