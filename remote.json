@@ -3,7 +3,7 @@
   [  
     {
       "remote": "starting",
-      "url": "https://dev-common.urgent.ly/seo/seoRemoteEntry.js",
+      "url": "http://localhost:3001/seoRemoteEntry.js",
       "module": "./StartingPage"
     },
     {
