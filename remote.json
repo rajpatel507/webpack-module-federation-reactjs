@@ -10,25 +10,25 @@
     {
       "route": "service-picker",
       "remote": "seo",
-      "url": "http://localhost:3002/remoteEntry.js",
+      "url": "http://localhost:3001/remoteEntry.js",
       "module": "./ServicePicker"
     },
    {
       "route": "vehicle-info",
       "remote": "seo",
-      "url": "http://localhost:3002/remoteEntry.js",
+      "url": "http://localhost:3001/remoteEntry.js",
       "module": "./VehicleInfo"
     },
    {
       "route": "location",
       "remote": "seo",
-      "url": "http://localhost:3002/remoteEntry.js",
+      "url": "http://localhost:3001/remoteEntry.js",
       "module": "./Location"
     },
     {
       "route": "summary",
       "remote": "seo",
-      "url": "http://localhost:3002/remoteEntry.js",
+      "url": "http://localhost:3001/remoteEntry.js",
       "module": "./Summary"
     }
   ]
