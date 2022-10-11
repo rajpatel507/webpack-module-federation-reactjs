@@ -8,28 +8,28 @@
       "module": "./StartingPage"
     },
     {
-      "remote": "service-picker",
-      "route": "seo",
+      "route": "service-picker",
+      "remote": "seo",
       "url": "http://localhost:3002/remoteEntry.js",
-      "module": "./Widget"
+      "module": "./ServicePicker"
     },
    {
-      "remote": "vehicle-info",
-      "route": "seo",
+      "route": "vehicle-info",
+      "remote": "seo",
       "url": "http://localhost:3002/remoteEntry.js",
-      "module": "./Widget"
+      "module": "./VehicleInfo"
     },
    {
-      "remote": "location",
-      "route": "seo",
+      "route": "location",
+      "remote": "seo",
       "url": "http://localhost:3002/remoteEntry.js",
-      "module": "./Widget"
+      "module": "./Location"
     },
     {
-      "remote": "summary",
-      "route": "seo",
+      "route": "summary",
+      "remote": "seo",
       "url": "http://localhost:3002/remoteEntry.js",
-      "module": "./Widget"
+      "module": "./Summary"
     }
   ]
 }
