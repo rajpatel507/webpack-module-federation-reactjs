@@ -3,12 +3,13 @@
   [  
     {
       "route": "starting",
-      "remote":'seo',
+      "remote": "seo",
       "url": "http://localhost:3001/seoRemoteEntry.js",
       "module": "./StartingPage"
     },
     {
       "remote": "app3",
+      "route": "test",
       "url": "http://localhost:3002/remoteEntry.js",
       "module": "./Widget"
     }  
